@@ -1,0 +1,147 @@
+#mainSection {
+  padding: 30px 0px;
+  background: url(../img/main-bg.jpg) no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100%;
+  height: 100%;
+}
+.free{
+  background: yellow;
+  margin-left: 110px;
+  font-size: 30px;
+  margin-bottom: 0;
+  border-radius: 12px;
+}
+.fluid{
+  color: white;
+  margin-left:110px;
+  font-size: 20px;
+  margin-top: 180px;
+}
+#navbarNav a{
+  color: white;
+  font-size: 15px;
+  line-height: 30px;
+  text-transform: uppercase;
+}
+.center{
+  border-bottom: 200px;
+}
+.one{
+  font-size: 17px;
+  
+}
+.three{
+  font-size: 85px;
+}
+.container{
+  margin: 30px;
+  margin-left: 60px;
+  width: 1200px;
+  height: 140px;
+  margin-top: 200px;
+}
+.col-4{
+  border: 1px solid gray;
+  background: white;
+  width: 300px;
+  height: 250px;
+  margin: 20px;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  float: left;
+  margin-left:95px;
+}
+.line1{
+  text-align: center;
+  font-size: 50px;
+}
+.line2{
+  text-align: center;
+  color: darkgray;
+  width: 100%;
+}
+.gold{
+  text-align: center;
+  font-size: 17px;
+}
+.darkgray{
+  font-size: 17px;
+  color: darkgray;
+  text-align: center;
+}
+.gray{
+  font-size: 30px;
+  color: gray;
+}
+#about{
+  padding: 180px 0px;
+  background: white;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100%;
+  height: 100%;
+}
+.user{
+  background: 1px solid gray;
+  display: grid;
+  grid-template-columns: 400px;
+  width: 500px;
+}
+.user{
+  background: 1px solid gray;
+  display: grid;
+  grid-template-columns: 500px;
+  width: 400px;
+}
+.about{
+  background: 1px solid gray;
+  border: gray;
+  font-size: 20px;
+  background: 100px;
+  display: grid;
+  grid-template-columns: 600px;
+  width: 500px;
+
+}
+.paragraph1{
+  background: 1px solid gray;
+  border: gray;
+  font-size: 20px;
+  background: 100px;
+  display: grid;
+  grid-template-columns: 600px;
+  width: 500px;
+  
+}
+.paragraph2{
+  background: 1px solid gray;
+  border: gray;
+  font-size: 20px;
+  background: 100px;
+  display: grid;
+  grid-template-columns: 600px;
+  width: 500px;
+  
+}
+.button{
+  background: 1px solid gray;
+  border: gray;
+  font-size: 20px;
+  background: 100px;
+  grid-template-columns: 600px;
+  width: 500px;
+  display: grid;
+  
+}
+.gold1{
+  font-size: 6px;
+  border-radius: 50%;
+}
+#testimonial{
+  width: 100%;
+  height: 400px;
+  margin-top: 150px;
+
+}
